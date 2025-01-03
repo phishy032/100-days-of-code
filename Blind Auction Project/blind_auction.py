@@ -25,4 +25,4 @@ while not finished:
     elif more_bids == 'yes':
         print("\n" * 100)
 
-print(bids)
+#print(bids)
